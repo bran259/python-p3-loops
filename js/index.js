@@ -3,12 +3,12 @@
    counting down to 1. After reaching 1, print out "Happy New Year!"
 */
 function happyNewYear() {
-  let counter = 10;
-  while (counter > 0) {
+    counter = 10;
+    while (counter > 0) {
     console.log(counter);
     counter--;
-  }
-  console.log("Happy New Year!");
+    }
+    print("Happy New Year!");
 }
 
 /* 
